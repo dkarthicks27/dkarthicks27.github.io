@@ -1,6 +1,6 @@
-baseURL       = "http://example.org/"
+baseURL       = "http://insigtoh.com/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "Build your Software solution with us"
 theme         = "roxo-hugo"
 summarylength = 25
 
