@@ -1,44 +1,52 @@
 enable  : true
 title   : Team that makes the difference.
 members  :
-  - image       : images/team/team-member-one.jpg
-    name        : PABLO ESCOBAR
-    designation : Creative Director
-    medium      : https://www.medium.com/
+  - image       : images/team/purushot.jpg
+    name        : PURUSHOTH
+    designation : UI UX Designer
+    github      : https://github.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-two.jpg
-    name        : MONTINO RIAU
-    designation : Product Manager
-    medium      : https://www.medium.com/
+  - image       : images/team/adithya.jpg
+    name        : ADITHYA MADDULAPALLI
+    designation : FRONTEND DEV
+    github      : https://github.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-three.jpg
-    name        : ALEX NAASRI
-    designation : Chief Design Officer
-    medium      : https://www.medium.com/
+  - image       : images/team/siva.jpg
+    name        : SIVA
+    designation : BACKEND DEVELOPER
+    github      : https://github.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-four.jpg
-    name        : HONGMAN CHIOA
-    designation : UX Researcher
-    medium      : https://www.medium.com/
+  - image       : images/team/karthik.jpg
+    name        : KARTHIK
+    designation : FRONTEND DEV
+    github      : https://github.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-five.jpg
-    name        : SANTIO ANDRESS
-    designation : Content Researcher
-    medium      : https://www.medium.com/
+  - image       : images/team/bhavitha.jpg
+    name        : BHAVITHA
+    designation : UI & UX DEV
+    github      : https://github.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-six.jpg
-    name        : RAMESH PAUL
-    designation : Creative Designer
-    medium      : https://www.medium.com/
+  - image       : images/team/dev.jpg
+    name        : DEV
+    designation : DEVELOPER
+    github      : https://github.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
+
+  - image       : images/team/karthick.jpg
+    name        : KARTHICK DURAI
+    designation : FOUNDER
+    github      : https://github.com/
+    linkedin    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
